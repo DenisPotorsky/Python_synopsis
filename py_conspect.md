@@ -8,7 +8,7 @@
 
 * Очистка консоли
 ```
-Import os
+import os
 os.system('cls||clear') 
 ```
 
